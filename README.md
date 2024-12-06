@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software engineer in training, serial project starter, occasional project finisher 🚀<br><br>I build things to procrastinate on studying<br>Currently juggling: bash scripts that automate my laziness, microcontrollers that blink in morse code, and ML models that sometimes work.<br><br>When I'm not breaking my production database, I'm probably learning something new or debugging why my perfectly good code from yesterday suddenly doesn't work today.
+Software engineer in training, serial project starter, occasional project finisher.
 
 
 ## 🌐 Socials:
