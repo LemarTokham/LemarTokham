@@ -7,7 +7,7 @@
 
 - Working on [Context-Buddy](https://github.com/LemarTokham/Context-Buddy)
 
-- Working on [Windows 95 portfolio]([https://github.com/LemarTokham/Bus-Tracker-V2](https://github.com/LemarTokham/windows-95-portfolio))
+- Working on [Windows 95 portfolio](https://github.com/LemarTokham/windows-95-portfolio)
 
 - Portfolio: [https://windows-95-portfolio-three.vercel.app/](https://windows-95-portfolio-three.vercel.app/)
 
