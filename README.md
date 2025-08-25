@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a [bus tracker](https://github.com/LemarTokham/Bus-Tracker-V2)
 
-- 🌱 I’m currently learning **Getting AWS Certified (3 Weeks!!)**
+- 🌱 I’m currently **Getting AWS Certified (3 Weeks!!)**
 
 - Working on [Context-Buddy](https://github.com/LemarTokham/Context-Buddy)
 
