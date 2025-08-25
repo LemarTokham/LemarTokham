@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lemar Tokham</h1>
 <h3 align="center">Professional Bug Exterminator</h3>
 
-- 🔭 I’m currently working on [My Windows 95 themed porfolio](https://github.com/LemarTokham/windows-95-portfolio)
+- 🔭 I’m currently working on a [bus tracker](https://github.com/LemarTokham/Bus-Tracker-V2)
 
 - 🌱 I’m currently learning **Getting AWS Certified (3 Weeks!!)**
 
 - Working on [Context-Buddy](https://github.com/LemarTokham/Context-Buddy)
 
-- Working on [Bus-Tracker](https://github.com/LemarTokham/Bus-Tracker-V2)
+- Working on [Windows 95 portfolio]([https://github.com/LemarTokham/Bus-Tracker-V2](https://github.com/LemarTokham/windows-95-portfolio))
 
 - Portfolio: [https://windows-95-portfolio-three.vercel.app/](https://windows-95-portfolio-three.vercel.app/)
 
