@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lemar Tokham</h1>
-<h3 align="center">Professional Bug Exterminator</h3>
+<h3 align="center">AI Slop Cleanup Artist</h3>
 
 - 🔭 I’m currently working on a [bus tracker](https://github.com/LemarTokham/Bus-Tracker-V2)
 
