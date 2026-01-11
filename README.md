@@ -1,21 +1,15 @@
 <h1 align="center">Hi 👋, I'm Lemar Tokham</h1>
 <h3 align="center">AI Slop Cleanup Artist</h3>
 
-- 🔭 I’m currently working on a [bus tracker](https://github.com/LemarTokham/Bus-Tracker-V2)
+- 🌱 I’m currently completing my placement year at **JPMorgan Chase**
 
-- 🌱 I’m currently **Getting AWS Certified (3 Weeks!!)**
 
-- Working on [Context-Buddy](https://github.com/LemarTokham/Context-Buddy)
-
-- Working on [Windows 95 portfolio](https://github.com/LemarTokham/windows-95-portfolio)
-
-- Portfolio: [https://windows-95-portfolio-three.vercel.app/](https://windows-95-portfolio-three.vercel.app/)
+- Portfolio: [https://www.lemartokham.com/](https://www.lemartokham.com/)
 
 - 📫 How to reach me **ltokham@gmail.com**
 
-- ⚡ Fun fact **I have an Arduino & a Raspberry Pi**
+- ⚡ Fun fact **I have an Arduino, a Raspberry Pi and a 3D printer (Bambu Lab A1) & I'm AWS certified (Cloud Practitioner)** 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
