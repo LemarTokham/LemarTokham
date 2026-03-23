@@ -1,14 +1,13 @@
-<h1 align="center">Hi 👋, I'm Lemar Tokham</h1>
-<h3 align="center">AI Slop Cleanup Artist</h3>
+<h1 align="center">Hi, I'm Lemar Tokham</h1>
 
-- 🌱 I’m currently completing my placement year at **JPMorgan Chase**
+- I’m currently completing my placement year at **JPMorgan Chase**
 
 
-- Portfolio: [https://www.lemartokham.com/](https://www.lemartokham.com/)
+- Portfolio: (coming soon)
 
-- 📫 How to reach me **ltokham@gmail.com**
+- How to reach me **ltokham@gmail.com**
 
-- ⚡ Fun fact **I have an Arduino, a Raspberry Pi and a 3D printer (Bambu Lab A1) & I'm AWS certified (Cloud Practitioner)** 
+- Fun fact **I have an Arduino, a Raspberry Pi and a 3D printer (Bambu Lab A1) & I'm AWS certified (Cloud Practitioner)** 
 
 <p align="left">
 </p>
